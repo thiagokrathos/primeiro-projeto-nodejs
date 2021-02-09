@@ -76,4 +76,4 @@ Esse projeto foi desenvolvido utilizando os seguintes recursos:
 
 ---
 
-Feito por Bela Ferreira :blue_heart: Contato: https://www.linkedin.com/in/thiagokrathos :blush:
+Feito por Thiago Almeida :blue_heart: Contato: https://www.linkedin.com/in/thiagokrathos :blush:
